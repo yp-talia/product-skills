@@ -82,6 +82,7 @@ All four skills follow the citation and triangulation rules in `references/sourc
 ## Contributing
 
 If you've built something in the same spirit — a prompt, a skill, a Claude Code hook, an eval harness — open a PR. The bar is: would you actually use this on a real product? Is it additive to what exists without adding undue complexity or context, have you evaluated your change?
+
 ---
 
 ## Author
